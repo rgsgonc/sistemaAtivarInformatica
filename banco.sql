@@ -296,4 +296,6 @@ CREATE TABLE IF NOT EXISTS  `ci_sessions` (
 INSERT INTO `usuarios` (`idUsuarios`, `nome`, `rg`, `cpf`, `rua`, `numero`, `bairro`, `cidade`, `estado`, `email`, `senha`, `telefone`, `celular`, `situacao`, `dataCadastro`, `nivel`) VALUES
 (1, 'admin', 'MG-25.502.560', '600.021.520-87', 'Rua Acima', '12', 'Alvorada', 'Brasília', 'DF', 'admin@admin.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', '0000-0000', '', 1, '2013-11-22', 1);
 
+INSERT INTO `usuarios` (`idUsuarios`, `nome`, `rg`, `cpf`, `rua`, `numero`, `bairro`, `cidade`, `estado`, `email`, `senha`, `telefone`, `celular`, `situacao`, `dataCadastro`, `nivel`) VALUES
+(2, 'Rafael', '5301209', '08793104995', 'Rua Altamiro Di Bernardi', '760', 'Campinas', 'São José', 'SC', 'rgs.gonc@gmail.com', '8c73c4f3ed8de726965b320aa4fe2e5a', '99151767', '', 1, '2017-01-26', 1);
 

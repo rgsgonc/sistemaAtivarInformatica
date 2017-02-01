@@ -116,7 +116,7 @@
 </div>
 <!--Footer-part-->
 <div class="row-fluid">
-  <div id="footer" class="span12"> 2014 &copy; Sistema OS E-mail: benhuragmf_roo@hotmail.com</div>
+  <div id="footer" class="span12"> 2017 &copy; Ativar Informática</div>
 </div>
 <!--end-Footer-part-->
 

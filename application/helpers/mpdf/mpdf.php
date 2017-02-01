@@ -11,7 +11,7 @@
 //                                                                              *
 // Changes:  See changelog.txt                                                  *
 // ******************************************************************************
-
+error_reporting(E_ALL ^ E_DEPRECATED);
 
 define('mPDF_VERSION','5.6');
 
